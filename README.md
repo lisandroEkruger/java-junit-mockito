@@ -1,10 +1,7 @@
 ## Dominio de Pruebas Unitarias en Java
 
-## Objetivo
-El objetivo principal es que los desarrolladores adquieran habilidades sólidas en pruebas unitarias, asegurando la calidad y confiabilidad del código Java.
-
 ## Descripción
-Este proyecto se centra en el dominio de las pruebas unitarias en Java utilizando JUnit y Mockito. A través de los videos, se abordan los siguientes aspectos:
+Este proyecto se centra en el dominio de las pruebas unitarias en Java utilizando JUnit y Mockito.
 
 ## Importancia de las pruebas unitarias:
 - Mejora la calidad del software.
